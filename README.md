@@ -1,4 +1,6 @@
-## Hi there 👋
+## Beware⚠️ goober ahead
+
+<br>i like making art, usually in forms of games and digital drawings. [here are my games](https://bardia-crunch.itch.io/)</br>
 
 <!--
 **BardiaCrunch/BardiaCrunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
