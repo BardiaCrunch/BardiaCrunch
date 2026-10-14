@@ -2,7 +2,7 @@
 
 <br>i like making art, usually in forms of games and digital drawings. [here are my games](https://bardia-crunch.itch.io/) on itch.io</br>
 
-<img src="https://github.com/BardiaCrunch/BardiaCrunch/blob/main/pics/flex-fit.gif"/>
+<img src="https://github.com/BardiaCrunch/BardiaCrunch/blob/main/pics/flex-fit.gif" width="200" height="256"/> <img src="https://github.com/BardiaCrunch/BardiaCrunch/blob/main/pics/skeleton-running.gif" /> <img src="https://github.com/BardiaCrunch/BardiaCrunch/blob/main/pics/skeleton-trumpet.gif" width="280"/>
 <!--
 **BardiaCrunch/BardiaCrunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
